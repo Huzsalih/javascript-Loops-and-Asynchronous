@@ -6,11 +6,11 @@ function printObjectProperties(obj) {
     }
 }
 
-const exampleObject = {
+const Me = {
     name: "Huzeyfa",
     age: 25,
     occupation: "Front-end developer"
 };
 
-printObjectProperties(exampleObject);
+printObjectProperties(Me);
 
